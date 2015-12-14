@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Module: default
-# Author: Roman V. M.
-# Created on: 28.11.2014
+# Author: KenyaTalk.com
+# Created on: 28.11.2015
 # License: GPL v.3 https://www.gnu.org/copyleft/gpl.html
 
 import sys
